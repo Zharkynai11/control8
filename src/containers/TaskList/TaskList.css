@@ -1,0 +1,20 @@
+div.wait{
+    position: absolute;
+    width: 30%;
+    left: 5%;
+    border: 2px solid black;
+}
+div.do
+{
+    position: absolute;
+    width: 30%;
+    left: 37%;
+    border: 2px solid black;
+}
+div.complete
+{
+    position: absolute;
+    width: 30%;
+    left: 69%;
+    border: 2px solid black;
+}
